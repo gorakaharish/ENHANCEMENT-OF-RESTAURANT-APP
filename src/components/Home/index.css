@@ -1,0 +1,17 @@
+.menu-tab-container {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  height: 70px;
+  border-width: 1px;
+  border-style: solid;
+  align-items: center;
+  padding: 10px;
+}
+
+.loader-container {
+  height: 100vh;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
